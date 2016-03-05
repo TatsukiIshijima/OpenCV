@@ -1,0 +1,14 @@
+﻿2015/12/21 19:39:02 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "c:\Users\robo-e-01\documents\visual studio 2012\Projects\ObjectRecognize_ORB\ObjectRecognize_ORB\ObjectRecognize_ORB.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\\build\include /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\ObjectRecognize_ORB.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt ObjectRecognize_ORB.cpp
+         ObjectRecognize_ORB.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\robo-e-01\documents\visual studio 2012\Projects\ObjectRecognize_ORB\x64\Debug\ObjectRecognize_ORB.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\\build\x64\vc11\lib opencv_features2d249d.lib opencv_flann249d.lib opencv_core249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\robo-e-01\documents\visual studio 2012\Projects\ObjectRecognize_ORB\x64\Debug\ObjectRecognize_ORB.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\robo-e-01\documents\visual studio 2012\Projects\ObjectRecognize_ORB\x64\Debug\ObjectRecognize_ORB.lib" /MACHINE:X64 x64\Debug\ObjectRecognize_ORB.obj
+         x64\Debug\stdafx.obj
+         ObjectRecognize_ORB.vcxproj -> c:\users\robo-e-01\documents\visual studio 2012\Projects\ObjectRecognize_ORB\x64\Debug\ObjectRecognize_ORB.exe
+     1>プロジェクト "c:\Users\robo-e-01\documents\visual studio 2012\Projects\ObjectRecognize_ORB\ObjectRecognize_ORB\ObjectRecognize_ORB.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.91
